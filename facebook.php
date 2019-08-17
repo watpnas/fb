@@ -1,4 +1,6 @@
-<?php></?php>
+<?php
+echo "My first PHP script!";
+?>
 <html>
 <body>
     <script>
